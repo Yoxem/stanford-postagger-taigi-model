@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+'''smallcasize the input'''
+
 '''convert poj to tl'''
 
 

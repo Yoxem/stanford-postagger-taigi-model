@@ -1,8 +1,8 @@
-## tagger training invoked at Sun Feb 08 23:00:49 CST 2026 with arguments:
-                   model = models/taigi.tagger
+## tagger training invoked at Sun Feb 08 23:53:50 CST 2026 with arguments:
+                   model = models-taigi/taigi.tagger
                     arch = left3words,naacl2003unknowns,unicodeshapes(-1,1)
             wordFunction = 
-               trainFile = models/taigi-tagged.txt
+               trainFile = models-taigi/taigi-tagged.txt
          closedClassTags = 
  closedClassTagThreshold = 40
  curWordMinFeatureThresh = 2
